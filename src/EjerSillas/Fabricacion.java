@@ -1,7 +1,8 @@
+package EjerSillas;
+
 abstract class Fabricacion implements Silla, Mesilla,Sofa{
 
     public void hasLegs(){
-        System.out.println("Tiene patas");
     }
     public void sitOn(){}
     public void tamañoTabla(){

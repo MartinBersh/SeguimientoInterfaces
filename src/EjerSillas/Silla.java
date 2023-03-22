@@ -1,3 +1,5 @@
+package EjerSillas;
+
 public interface Silla {
 
      void hasLegs();
